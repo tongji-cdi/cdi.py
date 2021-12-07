@@ -1,6 +1,11 @@
 # cdi.py
 Python API to control the smart space equipments at CDI.
 
+## Installation
+```
+pip install git+https://github.com/tongji-cdi/cdi.py.git
+```
+
 ## Usage
 ```python
 from cdipy import CDI
